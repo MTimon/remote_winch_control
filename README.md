@@ -1,6 +1,6 @@
 # remote_winch_control
 
-##BOM SENDER
+## BOM SENDER
 - ESP8266 NodeMCU
 - handheld enclosure BOPLA BS 601 F-7024
 - GoPRO-like clamp
@@ -9,7 +9,7 @@
 - OLED display 0.96"
 - toggle switch
 
-##BOM RECEIVER
+## BOM RECEIVER
 - ESP8266 NodeMCU
 - RS485 module
 - enclosure
@@ -17,7 +17,7 @@
 - serial data cable
 - LED green
 
-##BOM DRIVE
+## BOM DRIVE
 - 1x AC motor drive PARKER AC10 0.75kW
 - 2x SIEMENS emergency stop push button
 - 1x SIEMENS key turn switch
