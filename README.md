@@ -1,4 +1,4 @@
-# remote_winch_control
+# REMOTE WINCH CONTROL
 
 **WARNING: The drive of the remote winch contol contains high voltage. Mechanical parts of any winch may cause injuries. ANY USE OF CODE AND / OR HARDWARE INCLUDING PARTS OF CODE AND / OR CIRCUIT DIAGRAMS IS ON OWN RISK!**
 
