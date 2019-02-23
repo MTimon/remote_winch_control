@@ -1,5 +1,10 @@
 # remote_winch_control
 
+**WARNING: The drive of the remote winch contol contains high voltage. Mechanical parts of any winch may cause injuries. ANY USE OF CODE AND / OR HARDWARE INCLUDING PARTS OF CODE AND / OR CIRCUIT DIAGRAMS IS ON OWN RISK!**
+
+**PLEASE READ THE SAFETY INSTRUCTIONS OF [PARKER AC10 USER MANUAL](http://www.parker.com/Literature/Electromechanical%20Europe/User%20Guides/HA502320U001.pdf)**
+
+
 ## BOM SENDER
 - ESP8266 NodeMCU
 - handheld enclosure BOPLA BS 601 F-7024
