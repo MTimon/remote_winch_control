@@ -328,7 +328,7 @@ void setup()
   Serial.print("Setting soft-AP ... ");
   WiFi.mode(WIFI_AP);//eingefügt
   WiFi.softAPConfig(local, local, subnet);//eingefügt
-  boolean result = WiFi.softAP("ESPsoftAP_01", "pass-to-soft-AP");
+  boolean result = WiFi.softAP(SECRET_SSID, SECRET_PSW);
   if (result == true)
   {
     Serial.println("Ready");
