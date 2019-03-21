@@ -317,11 +317,7 @@ void setup()
     delay(ModWait);
     node.writeSingleRegister(0x0905, 0x0035);//Communication-Timeout 3,5s
     delay(ModWait);
-    /*
-      delay(ModWait);
-      node.writeSingleRegister(0x2000, 0x0009);//Communication-Timeout 3,5s Reset
-      delay(ModWait);
-    */
+   
     Serial.println();
     Serial.println("Umrichter initialisiert");
   }
