@@ -273,8 +273,8 @@ IPAddress ip(192, 168, 4, 2); // where xx is the desired IP Address
 IPAddress gateway(192, 168, 4, 1); // set gateway to match your network
 IPAddress subnet(255, 255, 255, 0); // set subnet mask to match your network
 unsigned int localUdpPort = 4210;  // local port to listen on
-const char* ssid = "ESPsoftAP_01";
-const char* password = "pass-to-soft-AP";
+const char* ssid = SECRET_SSID;
+const char* password = SECRET_PSW;
 char incomingPacket[255];
 char  replyPacekt[] = "Hi there! Got the message :-)";
 char StatFader[] = {0};
