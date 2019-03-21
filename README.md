@@ -13,6 +13,7 @@
 - touch sensor
 - OLED display 0.96"
 - toggle switch
+- 3x AA batteries
 
 ## BOM RECEIVER
 - ESP8266 NodeMCU
